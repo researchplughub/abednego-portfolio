@@ -1,0 +1,2 @@
+Drop your official cv.pdf in this /public directory as 'cv.pdf'.
+Once added, set `profileData.cv.isAvailable = true` in `src/data/profile.ts` to enable direct downloads.
