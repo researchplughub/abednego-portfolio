@@ -37,7 +37,7 @@ export function CvModal({ isOpen, onClose }: CvModalProps) {
               Curriculum Vitae
             </h3>
             <p className="text-xs text-foreground-subtle font-mono">
-              Abednego Osoro Nyabicha · Engineering & Security
+              Abenego Nyabicha · Engineering & Security
             </p>
           </div>
         </div>

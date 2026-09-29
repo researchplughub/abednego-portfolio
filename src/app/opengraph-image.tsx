@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
 
-export const alt = "Abednego Osoro Nyabicha | Cybersecurity & Software Engineer";
+export const alt = "Abenego Nyabicha | Cybersecurity & Software Engineer";
 export const size = {
   width: 1200,
   height: 630,
@@ -46,7 +46,7 @@ export default async function Image() {
               fontFamily: "monospace",
             }}
           >
-            AO
+            AN
           </div>
           <div
             style={{
@@ -73,7 +73,7 @@ export default async function Image() {
               lineHeight: 1.1,
             }}
           >
-            Abednego Osoro Nyabicha
+            Abenego Nyabicha
           </div>
           <div
             style={{
