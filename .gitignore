@@ -5,6 +5,7 @@ node_modules/
 
 # Testing
 coverage/
+lighthouse-report.json
 
 # Next.js build output
 .next/
