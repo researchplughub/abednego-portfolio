@@ -43,7 +43,7 @@ export function Navbar() {
             <Link
               href="/"
               className="flex items-center gap-2 group focus-visible:outline-none"
-              aria-label="AN - Abenego Nyabicha Homepage"
+              aria-label="AN - Abednego Nyabicha Homepage"
             >
               <div className="flex items-center justify-center w-9 h-9 rounded-lg bg-surface-card border border-surface-border group-hover:border-cyan-500/50 transition-colors">
                 <span className="font-mono text-sm font-bold tracking-tight text-cyan-400 group-hover:text-cyan-300">
@@ -52,7 +52,7 @@ export function Navbar() {
               </div>
               <div className="hidden sm:block text-left">
                 <div className="text-xs font-mono font-semibold tracking-wider text-foreground uppercase">
-                  Abenego Nyabicha
+                  Abednego Nyabicha
                 </div>
                 <div className="text-[10px] font-mono text-cyan-400/80">
                   Engineering & Security

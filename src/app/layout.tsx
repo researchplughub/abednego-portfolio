@@ -20,9 +20,9 @@ export const metadata: Metadata = {
     template: `%s | ${profileData.name}`,
   },
   description:
-    "Personal engineering portfolio of Abenego Nyabicha. Systems at the intersection of cybersecurity, software engineering, DevSecOps, and data/AI.",
+    "Personal engineering portfolio of Abednego Nyabicha. Systems at the intersection of cybersecurity, software engineering, DevSecOps, and data/AI.",
   keywords: [
-    "Abenego Nyabicha",
+    "Abednego Nyabicha",
     "Cybersecurity Engineer",
     "Software Engineer",
     "Cloud Engineer",

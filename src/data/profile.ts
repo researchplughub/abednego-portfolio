@@ -1,7 +1,7 @@
 import { Profile } from "@/types";
 
 export const profileData: Profile = {
-  name: "Abenego Nyabicha",
+  name: "Abednego Nyabicha",
   role: "Cybersecurity & Software Engineer",
   headline:
     "I build secure, reliable systems at the intersection of cybersecurity, software engineering and data.",

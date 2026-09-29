@@ -13,7 +13,7 @@ export function AboutMe() {
               Practitioner Profile
             </div>
             <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground">
-              About Abenego Nyabicha
+              About Abednego Nyabicha
             </h2>
           </div>
           <div className="mt-3 md:mt-0 flex items-center gap-2 text-xs font-mono text-cyan-400 bg-surface-subtle px-3 py-1.5 rounded-lg border border-surface-border">
@@ -78,7 +78,7 @@ export function AboutMe() {
               <div className="relative aspect-[4/5] w-full rounded-lg overflow-hidden bg-surface-subtle">
                 <Image
                   src="/images/abednego-laptop.jpg"
-                  alt="Abenego Nyabicha - Engineering and Technical Practice"
+                  alt="Abednego Nyabicha - Engineering and Technical Practice"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 40vw, 400px"
                   className="object-cover object-top hover:scale-102 transition-transform duration-300"
@@ -86,7 +86,7 @@ export function AboutMe() {
                 <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent pointer-events-none" />
                 <div className="absolute bottom-3 left-3 right-3 p-3 rounded-lg bg-background/80 backdrop-blur-md border border-surface-border">
                   <div className="text-xs font-mono font-semibold text-foreground">
-                    Abenego Nyabicha
+                    Abednego Nyabicha
                   </div>
                   <div className="text-[10px] font-mono text-cyan-400">
                     Cybersecurity &amp; Software Engineer · Dublin &amp; Nairobi

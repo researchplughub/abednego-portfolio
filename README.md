@@ -1,6 +1,6 @@
-# Abenego Nyabicha — Engineering Portfolio
+# Abednego Nyabicha — Engineering Portfolio
 
-A modern, high-performance personal engineering portfolio positioning **Abenego Nyabicha** at the intersection of **Cybersecurity, Software/Cloud Engineering, and Data/AI**.
+A modern, high-performance personal engineering portfolio positioning **Abednego Nyabicha** at the intersection of **Cybersecurity, Software/Cloud Engineering, and Data/AI**.
 
 Built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**, optimized for zero-downtime deployment on **Vercel**.
 
