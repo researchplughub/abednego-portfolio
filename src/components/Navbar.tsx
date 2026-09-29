@@ -43,7 +43,7 @@ export function Navbar() {
             <Link
               href="/"
               className="flex items-center gap-2 group focus-visible:outline-none"
-              aria-label="Abednego Osoro Nyabicha - Homepage"
+              aria-label="AO - Abednego Osoro Homepage"
             >
               <div className="flex items-center justify-center w-9 h-9 rounded-lg bg-surface-card border border-surface-border group-hover:border-cyan-500/50 transition-colors">
                 <span className="font-mono text-sm font-bold tracking-tight text-cyan-400 group-hover:text-cyan-300">

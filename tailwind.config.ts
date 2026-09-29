@@ -33,8 +33,8 @@ const config: Config = {
         },
         foreground: {
           DEFAULT: "#f8fafc",
-          muted: "#94a3b8",
-          subtle: "#64748b",
+          muted: "#cbd5e1",
+          subtle: "#94a3b8",
         },
       },
       fontFamily: {

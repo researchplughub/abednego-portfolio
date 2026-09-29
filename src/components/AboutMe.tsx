@@ -82,7 +82,6 @@ export function AboutMe() {
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 40vw, 400px"
                   className="object-cover object-top hover:scale-102 transition-transform duration-300"
-                  priority
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent pointer-events-none" />
                 <div className="absolute bottom-3 left-3 right-3 p-3 rounded-lg bg-background/80 backdrop-blur-md border border-surface-border">
